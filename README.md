@@ -45,5 +45,3 @@ Agora, em vez de montar relatórios manualmente, basta **executar o script** e o
 
 ---
 
-## 🗂️ Estrutura do projeto
-
